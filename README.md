@@ -1,6 +1,6 @@
 # 🎓 Certifications Portfolio
 
-Welcome to my **Certifications** repository! This repository serves as a centralized archive of the certifications and training programs I have completed across various domains in technology. It reflects my commitment to continuous learning and professional development 
+Welcome to my **Certifications** repository! This repository serves as a centralized archive of the certifications and training programs I have completed across various domains in technology. It reflects my commitment to continuous learning and professional development.
 
 ---
 
